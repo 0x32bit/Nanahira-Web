@@ -1217,7 +1217,7 @@ h6 {
 #footer {
   padding: 0 0 30px 0;
   font-size: 14px;
-  background: #fff;
+  background: #3f3f3f;
 }
 
 #footer .footer-top {
@@ -1266,7 +1266,7 @@ h6 {
 
 #footer .footer-top .social-links a:hover {
   background: #0a98c0;
-  color: #fff;
+  color: #3f3f3f;
 }
 
 #footer .footer-top h4 {
